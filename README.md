@@ -14,7 +14,9 @@ snATAC-seq or snRNA-seq: Supplies single-cell level chromatin accessibility (snA
 Key Steps
 
 Preprocessing: Both spatial transcriptomics data and reference modalities (snATAC-seq/snRNA-seq) are trimmed to a shared gene feature space, normalized, and transformed for alignment.
+
 Annotation Transfer: Cell types or functional labels from the reference modality are transferred to spatial cells using cross-modal mapping and adversarial learning.
+
 Mapping: Latent feature spaces from both modalities are aligned, and spatial transcriptomics data is mapped to the reference feature space to facilitate annotation transfer.
 
 Tutorial
