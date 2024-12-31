@@ -26,9 +26,13 @@ The flow.ipynb notebook provides a step-by-step guide to performing annotation t
 Datasets
 
 All datasets used for this annotation transfer are publicly available and can be downloaded from:
+
 Stereo-seq Data: Zenodo Link
+
 snATAC-seq Data: Zenodo Link
+
 snRNA-seq Data: Zenodo Link
+
 These datasets include both spatial transcriptomics and reference data for facilitating cross-modal annotation transfer.
 
 License
