@@ -38,3 +38,5 @@ These datasets include both spatial transcriptomics and reference data for facil
 License
 
 This repository is licensed under the MIT License. See the LICENSE file for more details.
+
+Other analysis code links：https://github.com/JuneMeng/snATAC_MacaqueCTX_Atlas
